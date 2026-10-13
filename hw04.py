@@ -52,7 +52,6 @@ def check_greater():
 
 
 # Task 3
-# COME BACK TO THIS ONE!
 def get_special_numbers():
     """ Print odd multiples of 3 between 1 and 40, excluding multiples of 5. """
     
